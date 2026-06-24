@@ -12,8 +12,8 @@
 🎓 I'm **Hrishabh Kureel**, a passionate Computer Science Engineering student at **Galgotias University**, driven by curiosity and a deep interest in **Cybersecurity**, **Full Stack Web Development**, and **Emerging Technologies**.
 
 - 🔭 I'm currently working on `Something exciting`
-- 
-🌱 Currently, I'm learning advanced backend architecture and contributing to side projects focused on both frontend finesse and backend resilience. I'm a quick learner, collaborative team player, and always eager to take on new tech challenges.
+
+💬 Currently, I'm learning advanced backend architecture and contributing to side projects focused on both frontend finesse and backend resilience. I'm a quick learner, collaborative team player, and always eager to take on new tech challenges.
 
 - 🌱 I'm currently learning `Full Stack Development & ML`
   
